@@ -1,0 +1,40 @@
+/*
+Theme Name: PubHouston
+Theme URI: http://onepageexpress.com
+Template: one-page-express
+Author: Horea Radu
+Description: One Page Express is a beautiful WordPress Theme that can be used to create a one page website in minutes by drag and drop. In comes with a predesigned home page and over 30 ready to use content sections that you can easily customize. It also has lots of customization options (video background, slideshow background, header content types, etc) that will help you create a beautiful, unique one page website in no time. One Page Express is responsive so it works on mobile devices out of the box. DEMO: http://onepageexpress.com/#demos
+Tags: one-column,right-sidebar,custom-header,custom-menu,custom-logo,full-width-template,theme-options,translation-ready,blog,featured-images,threaded-comments
+Version: 1.2.11.1580936870
+Updated: 2020-02-05 21:07:50
+
+*/
+
+.wpcf7-submit {
+	font: normal normal 300 18px/130% "Source Sans Pro", sans-serif;
+	hyphens: manual;
+	cursor: pointer;
+	margin: 0;
+	border: 0;
+	vertical-align: baseline;
+	box-sizing: border-box;
+	display: inline-block;
+	line-height: 1;
+	color: #381460;
+	fill: #381460;
+	text-align: center;
+	transition: all .3s;
+	box-shadow: none;
+	text-decoration: none;
+	width: auto;
+	font-size: 15px;
+	padding: 12px 24px;
+	border-radius: 3px;
+	font-family: "Roboto", Sans-serif;
+	font-weight: 500;
+	background-color: #F2B31C;
+}
+
+.footer { 
+	border-top: 0 !important;
+}
